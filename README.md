@@ -1,4 +1,4 @@
-# Free vless VPN
+# Free vless server
 Инструкция для получения бесплатного vless сервера
 
 ### 1) Установите v2RayTun
